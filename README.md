@@ -33,7 +33,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/tradmangh">
-    <img src="https://img.shields.io/badge/GitHub-tradmangh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/thomas-radman/">
+    <img src="https://img.shields.io/badge/LinkedIn-Thomas%20Radman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
