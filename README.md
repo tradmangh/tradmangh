@@ -6,8 +6,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <p align="center">
   <a href="https://tokscale.ai/u/tradmangh">
     <img src="https://tokscale.ai/api/embed/tradmangh/svg?sort=cost" alt="Tokscale Stats" />
