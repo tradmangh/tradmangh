@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, I'm tradmangh 👋</h1>
+<h1 align="center">Hey there👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Passionate+Developer;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=How+many+tokens+have+you+burned+today;Agentic+Engineering" alt="Typing SVG" />
 </p>
 
 ---
